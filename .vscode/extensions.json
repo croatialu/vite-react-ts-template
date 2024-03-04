@@ -1,5 +1,6 @@
 {
   "recommendations": [
-    "antfu.iconify"
+    "antfu.iconify",
+    "antfu.unocss"
   ]
 }

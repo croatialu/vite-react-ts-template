@@ -6,6 +6,10 @@ import {
 } from 'react-router-dom'
 import App from './App.tsx'
 
+import '@unocss/reset/normalize.css'
+
+import 'virtual:uno.css'
+
 import './index.css'
 
 const router = createBrowserRouter([
